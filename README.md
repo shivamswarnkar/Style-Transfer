@@ -4,7 +4,7 @@ Pytorch implementation of Style Transfer method described in the ["Image Style T
 
 - Quickly Getting Started, checkout [How To Use](#how-to-use) 
 - Style Transfer between your local images or online images (using image urls) on Google Colab, checkout this [notebook](style_transfer_colab_demo.ipynb)
-- Learn More About [Style Transfer](#how-does-style-transfer-work?)
+- Learn More About [Style Transfer](#how-does-style-transfer-work)
 - Check Out some style transfer results [here](#demo)
 
 ![Content](demo/demo3_content.png)
